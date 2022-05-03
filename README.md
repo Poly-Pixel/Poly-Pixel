@@ -2,10 +2,10 @@
 I'm Poly-Pixel, an aspiring full-stack developer!
 
 ## Personal Projects:
- - [Singularity](https://github.com/Poly-Pixel/Singularity)
- - [A password manager](https://github.com/Poly-Pixel/password-manager)
- - [A lesson manager](https://github.com/Poly-Pixel/lesson-manager)
  - [ComputerStacks](https://github.com/Poly-Pixel/computerstacks)
+ - [Singularity](https://github.com/Poly-Pixel/Singularity)
+ - A password manager (WIP)
+ - [A lesson manager](https://github.com/Poly-Pixel/lesson-manager)
  - A few other secret projects...
 
 ## Other Projects I Help With:
